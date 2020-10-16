@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#app {
+    height: 100vh;
+    min-height: 100vh;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.results__container {
+    margin: 10px 0;
+}
+
+.results__container img {
+    display: block;
+    margin-top: 10px;
+}
+
+.searchHeading {
+    margin-bottom: 10px;
+}
