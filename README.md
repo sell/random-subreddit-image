@@ -25,8 +25,8 @@ Server Routes:
     <li>
     /api/reddit
         <ul>
-            <li>?subreddit=dog.json</li>
-            <li>?subreddit=dog.json&imageonly=true</li>
+            <li>?subreddit=dog</li>
+            <li>?subreddit=dog&imageonly=true</li>
         </ul>
     </li>
 </ul>
